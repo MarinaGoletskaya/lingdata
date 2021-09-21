@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T13:47:12+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Acer/Downloads/sergeev.mp4.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./sergeev.mp4.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:13c47545-228f-4d8a-83a9-fa1b75cbc51a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">41</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1059380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1064570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1064660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1066560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1066615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1071945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1072085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1074605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1074680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1081190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="1081280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1083680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="1083785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="1087165"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="1087280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1093220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1093225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1093225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="1096105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="1096105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="1096860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="1102370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="1102900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="1107380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="1107475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="1110085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="1110125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="1118080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="1118565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="1120220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="1120295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="1125565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="1125605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="1128895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="1128955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="1131620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="1131672"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="1137162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="1137242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="1141672"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="1141708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="1147398"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MarinaGoletskaya" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@sas1974m" TIER_ID="text@sas1974m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>как раз та... как раз таки / вот это вот одна из наших функций да / нашего управления //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>э... вот согласование //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>эээ... рек... м... видов да вида места размещения рекламных конструкций //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>рекламных конструкций / вывесок да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>и... ээ... вот э... / на... на днях / мы как раз таки поднимаем эту проблему //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>э... о том что //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>для себя должны принять решение по... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>уст... / по... ээ... запрету / баннерной рекламы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>по замещению баннерной рекламы на торцах / жилых зданий //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>вот вы видите да что... / э... полностью весь ба... / э... торец здания закрывается рекламой да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>и / э... мы на данный момент предлагаем постепенно перейти //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>э... у кого допустим аренда закончилась да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>мы / дальше ему даём пролонгацию только в случае если он перейдёт на м... / рекламу в виде нанесения муралов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>то есть стрит-арт //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>вот такой вариант мы э... сейчас хотим вынести на общественное обсуждение //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>и хотим выслушать вот как раз таки наших граждан да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>э... какую суппозицию они принимают //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>например / э... жильцы этого дома / которые /  на ко... на торце здания да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>э... они конечно заинтересованы да / и они сейчас вот к нам приходят и говорят //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>разрешите пожалуйста разместить в торце нашего здания вот баннерную рекл... рекламу допустим да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MarinaGoletskaya" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="traslation" PARENT_REF="text@sas1974m"
+        PARTICIPANT="@sas1974m" TIER_ID="transl@sas1974m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>this is exactly one of our functions, functions of our department</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>agreement</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>agreement on the type and location of advertising constructions</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>advertising constructions, signs</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>in the next few days we will take up this problem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>of</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>we have to make a decision on</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>on banning banner advertising</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>on the replacement of banner advertising at the end of the residential buildings</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>you can see that the entire end of the buildings is covered with advertising</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>and we are now proposing a gradual shift</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>who, let's say, is out of rent</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>the only way we are going to extend it is if it goes into the mural advertising</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>i mean, street art</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>this is an option that we now want to put on the public agenda</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>and we want to listen to our citizens</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>what kind of supposition they take</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>for example, the tenants of this building who... that... at the end of the building</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>they are, of course, interested, and they are coming to us now and saying</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>let someone please place banner advertising at the end of our buildings, say</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="traslation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d278cbb8-4554-422a-bf7b-36ed03e97a99">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a46991aa-d539-400f-a750-e8dbc1d41eaf">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f65150db-3856-469f-895a-16311dcd2b80">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e4a0ae07-9df5-4ba9-943e-d5e22406bf63">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f15c94f8-2a6d-4017-8dcb-40046257ca38">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4e0c60d8-444a-4f53-97b3-b1ddf1f9b783">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d8a4f0fd-f26f-48ef-800a-4aa0fbcb4732">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7e00a9e6-8dd3-40b1-bccb-5d7dd398e80a">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e081b867-b16f-4cf0-a2fa-855d43c88767">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c9dc3373-097d-49a5-a8c7-960d1cdba65e">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f4bfb1e9-772d-4c4f-80d8-44728feeae29">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f229acad-aa82-4f25-a224-6c74a111b02d">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7281aba4-a39a-4b38-a718-010dff99963f">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_72898033-547d-4a90-b65b-fdf11677457c">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ae8fc1cc-8dfb-4a4d-a34e-7a3c7b7b3da1">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ecdf18e3-f625-4bf6-9913-48fdbd30b319">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_152e3e9f-5a38-4c45-820e-4fbb045de69f">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
